@@ -15,7 +15,7 @@
 - 💬 Ask me about: **React, JavaScript, MySQL, Node.js, Java**
 - 📫 Reach me at: **nehagupta110802@gmail.com**
 - 🌐 Portfolio: [My Projects](https://github.com/Nehaa1108/portfolio.git)
-- 💡 Fun fact: I love solving real-world problems through code and exploring new tech every week!
+- 💡 Fun fact: I write code like I write stories — with plenty of plot twists and unexpected bugs! 🐞📖
 
 ---
 
