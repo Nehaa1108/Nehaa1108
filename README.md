@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/thumb/female-developer-5942136-4936308.gif" alt="Female Developer Animation" width="300"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Female Developer Animation" width="300"/>
 </p>
 
 ### 🚀 About Me
