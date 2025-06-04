@@ -2,6 +2,9 @@
 
 ✨ Welcome to my GitHub! I'm a passionate **Software Engineer** from 🇮🇳 India, constantly learning and building impactful projects.
 
+<p align="center">
+  <img src="https://cdn.iconscout.com/lottie/premium/thumb/female-developer-5942136-4936308.gif" alt="Female Developer Animation" width="300"/>
+</p>
 ---
 
 ### 🚀 About Me
