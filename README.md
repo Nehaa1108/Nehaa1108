@@ -4,9 +4,6 @@
 
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Female Developer Animation" width="300"/>
-</p>
 
 ### 🚀 About Me
 
