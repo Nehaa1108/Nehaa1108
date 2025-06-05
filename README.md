@@ -3,8 +3,6 @@
 ✨ Welcome to my GitHub! I'm a passionate **Software Engineer** from 🇮🇳 India, constantly learning and building impactful projects.
 ---
 
-(https://cdn.iconscout.com/lottie/premium/preview-watermark/female-web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-development-pack-website-animations-6031664.gif)](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-development-pack-website-animations-6031664.mp4)
-
 ### 🚀 About Me
 
 - 🔭 I’m currently working on: [Grocify – Grocery Ecommerce App](https://github.com/Nehaa1108/Grocify.git)
