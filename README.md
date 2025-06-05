@@ -3,7 +3,7 @@
 ✨ Welcome to my GitHub! I'm a passionate **Software Engineer** from 🇮🇳 India, constantly learning and building impactful projects.
 ---
 
-<p align="center">Add commentMore actions
+<p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif" alt="Developer Animation" width="500"/>
 </p>
 
