@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on: [Expense Tracker Mobile App](https://github.com/Nehaa1108/Expense_Tracker)
-- 🌱 I’m currently learning: **React NAtive Expo**, **TypeScript**, and  **Backend Flow**
+- 🌱 I’m currently learning: **React Native Expo**, **TypeScript**, and  **Backend Flow**
 - 💬 Ask me about: **React, JavaScript, MySQL, Node.js, React Native**
 - 📫 Reach me at: **nehagupta110802@gmail.com**
 - 🌐 Portfolio: [My Projects](https://github.com/Nehaa1108/portfolio.git)
