@@ -54,7 +54,7 @@
 
 ---
 
-### 📌 Goals for 2025
+### 📌 Goals for 2026
 
 - 🔧 Build full-stack microservice-based applications using Nodejs & React
 - 🧠 Learn Backend tools: Node, Express
