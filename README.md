@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: [Grocify – Grocery Ecommerce App](https://github.com/Nehaa1108/Grocify.git)
-- 🌱 I’m currently learning: **Spring Boot**, **Hibernate**, and advanced **backend design**
-- 💬 Ask me about: **React, JavaScript, MySQL, Node.js, Java**
+- 🔭 I’m currently working on: [Expense Tracker Mobile App](https://github.com/Nehaa1108/Expense_Tracker)
+- 🌱 I’m currently learning: **React NAtive Expo**, **TypeScript**, and  **Backend Flow**
+- 💬 Ask me about: **React, JavaScript, MySQL, Node.js, React Native**
 - 📫 Reach me at: **nehagupta110802@gmail.com**
 - 🌐 Portfolio: [My Projects](https://github.com/Nehaa1108/portfolio.git)
 - 💡 Fun fact: I write code like I write stories — with plenty of plot twists and unexpected bugs! 🐞📖
@@ -25,9 +25,12 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -53,9 +56,9 @@
 
 ### 📌 Goals for 2025
 
-- 🔧 Build full-stack microservice-based applications using Spring Boot & React
-- 🧠 Learn Backend tools: Spring Boot, Kubernetes
-- 💬 Contribute to open-source JavaScript/Java projects
+- 🔧 Build full-stack microservice-based applications using Nodejs & React
+- 🧠 Learn Backend tools: Node, Express
+- 💬 Contribute to open-source JavaScript/React Native projects
 - 📖 Publish tech blogs and tutorials
 
 ---
